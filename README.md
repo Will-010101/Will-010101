@@ -1,7 +1,7 @@
 # Hi there, I'm Farnaz Sahraie 👋
 
-I am an **Embedded Systems & Robotics Developer** studying at **Sharif University of Technology**[cite: 1] and a proud member of the **National Elites Foundation of Iran**[cite: 1]. I specialize in bridging the gap between high-level computer vision and low-level hardware control, focusing on autonomous systems and intelligent robotics.
-
+I am an **Embedded Systems & Robotics Developer** studying at **Sharif University of Technology**[cite: 1] and a proud member of the **National Elites Foundation of Iran**[cite: 1]. 
+I design autonomous robotic systems by combining embedded programming, computer vision, and intelligent control algorithms.
 ---
 
 ## 🏆 Key Achievements
@@ -17,8 +17,8 @@ I am an **Embedded Systems & Robotics Developer** studying at **Sharif Universit
 | :--- | :--- |
 | **Languages** | C, C++, Python, c#|
 | **Embedded & Control** | dsPIC, PIC, Arduino, Kalman Filter, PID Control, Real-Time Systems |
-| **Robotics & Vision** | OpenCV, Webots (3D Simulation), Robot Kinematics |
-| **Tools** | Git/GitHub, Proteus, MPLAB XC8/XC16, VS Code, Visual studio |
+| **Robotics & Vision** | OpenCV, Webots (3D Simulation), Robot Kinematics, NumPy |
+| **Tools** | Git/GitHub, Proteus, MPLAB XC8/XC16, VS Code, Visual studio, Git, Linux, Processing |
 
 ---
 
