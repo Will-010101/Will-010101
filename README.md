@@ -11,7 +11,7 @@ I design autonomous robotic systems by combining embedded programming, computer 
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
 
 | Category | Technologies |
 | :--- | :--- |
@@ -22,17 +22,17 @@ I design autonomous robotic systems by combining embedded programming, computer 
 
 ---
 
-## 📁 Highlighted Projects
+## Highlighted Projects
 
-### 🚀 [Autonomous Warehouse Robot](https://github.com/Will-010101/Autonomous-Warehouse-Robot)
+### [Autonomous Warehouse Robot](https://github.com/Will-010101/Autonomous-Warehouse-Robot)
 *An autonomous navigation and object detection system utilizing computer vision (OpenCV) and embedded robotic control.*
 * **Status:** 🏆 1st Provincial & 2nd National Rank
 
-### ⚽ [Soccer Robot Firmware](https://github.com/Will-010101/Soccer-robot-Robocup)
+### [Soccer Robot Firmware](https://github.com/Will-010101/Soccer-robot-Robocup)
 *Low-level firmware developed for an omnidirectional soccer robot based on dsPIC33EP, featuring Kalman filtering for IMU sensors.*
 * **Status:** RoboCup & Iran Open
 
-### 🎡 [Robotic Simulations in Webots](https://github.com/Will-010101/Robot-Soccer-Simulation)
+### [Robotic Simulations in Webots](https://github.com/Will-010101/Robot-Soccer-Simulation)
 *Complex physics-based simulations, including intelligent multi-agent robot soccer strategy and motion control mechanics.*
 * **Status:** 🏆 1st Place RoboCup IranOpen
 
@@ -42,5 +42,5 @@ I design autonomous robotic systems by combining embedded programming, computer 
 
 Let's discuss robotics, embedded systems, or research collaborations!
 
-* 💼 **LinkedIn:** [Farnaz Sahraie on LinkedIn](https://www.linkedin.com/in/farnaz-sahraie-19958a389)
-* 📧 **Email:** [ab122112211221@gmail.com](mailto:ab122112211221@gmail.com)
+* **LinkedIn:** [Farnaz Sahraie on LinkedIn](https://www.linkedin.com/in/farnaz-sahraie-19958a389)
+* **Email:** [ab122112211221@gmail.com](mailto:ab122112211221@gmail.com)
