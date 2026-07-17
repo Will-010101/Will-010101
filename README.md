@@ -43,4 +43,4 @@ I design autonomous robotic systems by combining embedded programming, computer 
 Let's discuss robotics, embedded systems, or research collaborations!
 
 * **LinkedIn:** [Farnaz Sahraie on LinkedIn](https://www.linkedin.com/in/farnaz-sahraie-19958a389)
-* **Email:** [ab122112211221@gmail.com](mailto:ab122112211221@gmail.com)
+* **Email:** [farnaz.sahraie@gmail.com](mailto:farnaz.sahraie@gmail.com)
